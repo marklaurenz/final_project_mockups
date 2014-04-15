@@ -9,7 +9,6 @@ img {
 input {
   font-size: 40px;
 }
-.pagination-centered {
-  vertical-align: middle;
-
+.margin {
+  margin-top: 100px;
 }
